@@ -1,4 +1,4 @@
-# conteno 10
+# conteno 10 a 0
 n = 10
 while  n<=10:
     print (n)
